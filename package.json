@@ -1,0 +1,23 @@
+{
+  "name": "bestswap-v1-core",
+  "version": "1.0.0",
+  "description": "Core smart contracts of bestswap",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bestswap/bestswap-v1-core.git"
+  },
+  "keywords": [
+    "smart",
+    "contracts",
+    "solidity"
+  ],
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/bestswap/bestswap-v1-core/issues"
+  },
+  "homepage": "https://github.com/bestswap/bestswap-v1-core#readme"
+}
